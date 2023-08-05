@@ -1,0 +1,15 @@
+/Users/virensareen/RiderProjects/Fishing/Fishing/bin/Debug/net6.0/Fishing
+/Users/virensareen/RiderProjects/Fishing/Fishing/bin/Debug/net6.0/Fishing.deps.json
+/Users/virensareen/RiderProjects/Fishing/Fishing/bin/Debug/net6.0/Fishing.runtimeconfig.json
+/Users/virensareen/RiderProjects/Fishing/Fishing/bin/Debug/net6.0/Fishing.dll
+/Users/virensareen/RiderProjects/Fishing/Fishing/bin/Debug/net6.0/Fishing.pdb
+/Users/virensareen/RiderProjects/Fishing/Fishing/obj/Debug/net6.0/Fishing.csproj.AssemblyReference.cache
+/Users/virensareen/RiderProjects/Fishing/Fishing/obj/Debug/net6.0/Fishing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virensareen/RiderProjects/Fishing/Fishing/obj/Debug/net6.0/Fishing.AssemblyInfoInputs.cache
+/Users/virensareen/RiderProjects/Fishing/Fishing/obj/Debug/net6.0/Fishing.AssemblyInfo.cs
+/Users/virensareen/RiderProjects/Fishing/Fishing/obj/Debug/net6.0/Fishing.csproj.CoreCompileInputs.cache
+/Users/virensareen/RiderProjects/Fishing/Fishing/obj/Debug/net6.0/Fishing.dll
+/Users/virensareen/RiderProjects/Fishing/Fishing/obj/Debug/net6.0/refint/Fishing.dll
+/Users/virensareen/RiderProjects/Fishing/Fishing/obj/Debug/net6.0/Fishing.pdb
+/Users/virensareen/RiderProjects/Fishing/Fishing/obj/Debug/net6.0/Fishing.genruntimeconfig.cache
+/Users/virensareen/RiderProjects/Fishing/Fishing/obj/Debug/net6.0/ref/Fishing.dll
